@@ -389,7 +389,7 @@ footer {
 /******************** ABOUT PAGE MOBILE STYLES********************/
 
 .about-hero {
-    background-image: url('/img/class-photo.png');
+    background-image: url('../img/class-photo.png');
     background-size: cover;
     background-position: center;
     padding-top: 45vw;
