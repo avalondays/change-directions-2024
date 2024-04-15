@@ -601,8 +601,8 @@ footer {
     }
 
     .location-body {
-        display: flex;
-        gap: 12rem;
+        display: grid;
+        grid-template-columns: 1.5fr 1fr 1fr;
     }
 
     .location p {
