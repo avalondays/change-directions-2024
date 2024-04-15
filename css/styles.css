@@ -435,6 +435,11 @@ footer {
     padding-top: 3rem;
 }
 
+.map {
+    box-shadow: 2px 2px 30px 3px rgba(255, 183, 0, 0.382);
+    border-radius: 16px;
+}
+
 .h3-about {
     padding-bottom: .5rem;
     font-size: 20pt;
@@ -792,14 +797,10 @@ footer {
     .venue {
         display: grid;
         grid-template-columns: 2fr 1fr;
-        gap: 2rem;
+        gap: 4rem;
         align-items: end;
         padding-top: 4rem;
         position: relative;
-    }
-
-    .venue .map {
-        box-shadow: 2px 2px 30px 3px rgba(255, 183, 0, 0.382);
     }
 
     .venue-text {
