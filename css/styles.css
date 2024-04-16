@@ -786,6 +786,10 @@ footer {
         width: 20vw;
     }
 
+    .long-name-sp h2 {
+        font-size: 32pt;
+        line-height: 38pt;
+    }
 
     /******************** STUDENT PAGE DESKTOP STYLES END ********************/
     /******************** ABOUT PAGE DESKTOP STYLES********************/
