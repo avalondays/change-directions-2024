@@ -349,8 +349,9 @@ footer {
 
 .student-bio h2 {
     font-size: 32pt;
-    line-height: 4.5rem;
+    line-height: 38pt;
     text-shadow: 2px 2px 10px #000000;
+    padding-bottom: 1rem;
 }
 
 .student-bio h3 a {
