@@ -392,6 +392,11 @@ footer {
     padding: 0 0 4rem 0;
 }
 
+.long-name-sp h2 {
+    font-size: 28pt;
+    line-height: 34pt;
+}
+
 /******************** STUDENT PAGE MOBILE STYLES END********************/
 /******************** ABOUT PAGE MOBILE STYLES********************/
 
