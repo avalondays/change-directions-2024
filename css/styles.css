@@ -454,7 +454,6 @@ footer {
 }
 
 .date-sponsors {
-
     position: relative;
 }
 
@@ -479,13 +478,35 @@ footer {
     position: absolute;
     right: -100px;
     top: 70px;
-
 }
 
 .graphic-about-2 {
     position: absolute;
     left: -50px;
     top: 300px;
+}
+
+.donations {
+    position: relative;
+    padding-bottom: 4em;
+}
+
+.donations-text {
+    padding: 1rem 0rem;
+}
+
+.donations-text h3 {
+    font-size: 20pt;
+    text-shadow: 2px 2px 10px #000000;
+    padding: 2rem 0rem 1rem 0rem;
+}
+
+.donations-text p {
+    text-shadow: 2px 2px 10px #000000;
+}
+
+.donate-button {
+    padding: 2rem 0rem;
 }
 
 /******************** ABOUT PAGE MOBILE STYLES END********************/
@@ -838,6 +859,19 @@ footer {
         left: -100px;
         top: 100px;
         width: 32%;
+    }
+
+    .donations {
+        padding: 4vw 20vw 8vw 12vw;
+    }
+
+    .donations-text {
+        padding-bottom: 2rem;
+    }
+
+    .donation-buttons {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
     }
 
     /******************** ABOUT PAGE DESKTOP END ********************/
